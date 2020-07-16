@@ -1,0 +1,33 @@
+.App{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.App>h1{
+    color: brown;
+}
+
+.App>div {
+    display: flex;
+}
+
+.App button{
+    
+    border-radius: 9px;
+    font-size: xx-large;
+    width: 100px;
+    margin: 20px;
+    background-color: red;
+    color: white;
+
+}
+
+.Count{
+
+    font-size: 50px;
+    margin-top: 12px;
+
+}
